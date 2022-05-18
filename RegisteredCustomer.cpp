@@ -7,4 +7,5 @@ RegisteredCustomer::RegisteredCustomer(const char cCustomerName[], int cCustomer
 stpcpy_s(CustomerName, cCustomerName);
 CustomerID = cCustomerID;
 }
+
 //Created by IT21234484

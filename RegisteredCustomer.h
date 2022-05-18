@@ -15,4 +15,5 @@ class RegisteredCustomer
     void RegisteredCustomer::Logout();
     RegisteredCustomer::~RegisteredCustomer();
 };
+
 //Created by IT21234484
