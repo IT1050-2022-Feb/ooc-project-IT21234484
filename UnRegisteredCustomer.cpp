@@ -6,3 +6,5 @@ UnRegisteredCustomer::UnRegisteredCustomer(const char cCustomerName[])
 {
 stpcpy_s(CustomerName, cCustomerName);
 }
+
+//created by IT21234484
